@@ -1,7 +1,7 @@
 def extract_jpg_from_PDF(pdfName):
     '''Extracts the JPGs images in a PDF file by analising the binary structure of the PDF
         The beggining of a JPG is tagged by a b"\xff\xd8" and the end by a "\xff\xd9"
-        We basically take the 20 characters in between (quick and dirty)'''
+        We basically take the characters in between (quick and dirty)'''
         '''Credit to Ned Batchelder'''
 
     directoryName = pdfName + ' images'
