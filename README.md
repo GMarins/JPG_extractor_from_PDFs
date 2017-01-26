@@ -5,6 +5,6 @@ The structure of PDF files is quite complex. As images are stored in PDFs 'as-is
 
 Read the .py file for more info. 
 
-Credits to  Ned Batchelder for the initial project.
+Credits to  Ned Batchelder for coming out with the initial idea.
 
 
